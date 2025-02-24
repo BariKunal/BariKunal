@@ -1,5 +1,14 @@
 <h1 align="center">🚀 Bhupendra Patil - DevOps Engineer 🚀</h1> [![Buy me coffee]
 
+
+<p align="center">
+  <a href="https://github.com/NucleusCloudX">
+    <img src="https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Cloud%20%26%20DevOps%20Engineer%20%20Passionate%20About%20Automation%20%26%20Cloud%20Technologies%20%20Eager%20to%20Learn%20%26%20Grow%20in%20CICD%20%26%20Infrastructure%20as%20Code.png?raw=true" 
+         alt="Cloud & DevOps Engineer | Passionate About Automation & Cloud Technologies | Eager to Learn & Grow in CI/CD & Infrastructure as Code" />
+  </a>
+</p>
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 </p>
