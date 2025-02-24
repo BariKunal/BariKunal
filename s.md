@@ -67,7 +67,7 @@
   </a>
 
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="80" />
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="80" />
   </a>
 
   <a href="https://grafana.com/" target="_blank">
