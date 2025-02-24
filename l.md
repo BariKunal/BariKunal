@@ -152,7 +152,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NucleusCloudX&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=5&margin-h=5" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NucleusCloudX&theme=algolia&no-bg=true&no-frame=true&column=15&margin-w=15&margin-h=15" />
 </p>
 
 
