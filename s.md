@@ -84,6 +84,6 @@
 
 ---
 ---
-<h3 align="center">⚡"DevOps is not about tools; it's about culture, collaboration, and continuous improvement!" 🚀</h3>
+<h3 align="center">⚡"DevOps is not just about tools; it's a mindset – a fusion of trust, collaboration, and continuous improvement!" 🚀</h3>
 
 
