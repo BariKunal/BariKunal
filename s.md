@@ -79,7 +79,7 @@
 
 ## 🏆 **GitHub Trophies**  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NucleusCloudX&theme=radical&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NucleusCloudX&theme=radical&margin-w=8&margin-h=10" />
 </p>
 
 ---
