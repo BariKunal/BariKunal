@@ -70,11 +70,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" height="80" />
-  </a>
-</p>
 
 
 
