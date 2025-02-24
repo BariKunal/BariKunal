@@ -145,3 +145,8 @@
 ---
 
 ✨ **Consistency, Commitment & Continuous Learning!** 🚀
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NucleusCloudX&theme=radical&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</p>
