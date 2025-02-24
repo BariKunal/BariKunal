@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Bhupendra Patil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Screenshot%202025-02-25%20032659.png)" width="50px"></h1>
+<h1 align="center"> Hi there, I'm Bhupendra Patil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Screenshot%202025-02-25%20032659.png" width="50px"></h1>
 
 <p align="center">
   <a href="https://github.com/NucleusCloudX">
