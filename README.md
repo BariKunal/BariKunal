@@ -90,5 +90,10 @@
 
 ---
 ---
-<h3 align="center">⚡"DevOps is not just about tools; it's a mindset – a fusion of trust, collaboration, and continuous improvement!" 🚀</h3>
+<p align="center">
+  <a href="https://github.com/NucleusCloudX">
+    <img src="https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Screenshot%202025-02-25%20031604.png?raw=true" />
+  </a>
+</p>
+
 
