@@ -1,7 +1,7 @@
 <h1 align="center">
   Hi there, I'm Bhupendra Patil 
+  <img src="https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Screenshot%202025-02-25%20032659.png?raw=true" width="150">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> 
-  <img src="https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Screenshot%202025-02-25%20032659.png?raw=true" width="100">
 </h1>
 
 
