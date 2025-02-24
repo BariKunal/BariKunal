@@ -84,9 +84,6 @@
 
 ---
 ---
-<h3 align="center">⚡ "Automate Everything, Fail Fast, Learn Faster, and Deliver Continuously!" 🚀</h3>
+<h3 align="center">⚡"DevOps is not about tools; it's about culture, collaboration, and continuous improvement!" 🚀</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px">
-</p>
 
