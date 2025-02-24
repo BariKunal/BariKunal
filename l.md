@@ -150,3 +150,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NucleusCloudX&theme=radical&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NucleusCloudX&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=5&margin-h=5" />
+</p>
