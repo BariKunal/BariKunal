@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Bhupendra Patil <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"></h1>
 <h3 align="center">  Cloud & DevOps Engineer |  Passionate About Automation & Cloud Technologies |  Eager to Learn & Grow in CI/CD & Infrastructure as Code </h3>
 
-## 🔗 Stay Connected  
+## Connect with Me
 
 <p float="left">
   <a href="https://www.linkedin.com/in/bhupendra-devops-engineer" >
