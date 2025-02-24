@@ -59,6 +59,18 @@
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="80" />
   </a>
+  <p align="center">
+  <a href="https://www.ansible.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="80" />
+  </a>
+    <p align="center">
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" height="80" />
+  </a>
+</p>
+
+</p>
+
 </p>
 
 
