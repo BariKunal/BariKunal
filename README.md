@@ -69,9 +69,7 @@
   </a>
 </p>
 
-</p>
 
-</p>
 
 
 ###  **Development & Tools**  
