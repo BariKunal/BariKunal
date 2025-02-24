@@ -1,12 +1,10 @@
 <h1 align="center">
   Hi there, I'm Bhupendra Patil 
-  <img src="https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Screenshot%202025-02-25%20034026.png" width="60px">
+  <img src="https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Screenshot%202025-02-25%20034026.png" width="88px">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> 
 </h1>
 
-<img src="https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Screenshot%202025-02-25%20034026.png" width="60px">
 
-<p align="center">
   <a href="https://github.com/NucleusCloudX">
     <img src="https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Cloud%20%26%20DevOps%20Engineer%20%20Passionate%20About%20Automation%20%26%20Cloud%20Technologies%20%20Eager%20to%20Learn%20%26%20Grow%20in%20CICD%20%26%20Infrastructure%20as%20Code.png?raw=true" 
          alt="Cloud & DevOps Engineer | Passionate About Automation & Cloud Technologies | Eager to Learn & Grow in CI/CD & Infrastructure as Code" />
