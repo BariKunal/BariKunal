@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there, I'm Bhupendra Patil 
-  <img src="https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Screenshot%202025-02-25%20033541.png" width="80px">
+  <img src="https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Screenshot%202025-02-25%20034026.png" width="80px">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> 
 </h1>
 
