@@ -154,3 +154,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NucleusCloudX&theme=algolia&no-bg=true&no-frame=true&column=7&margin-w=5&margin-h=5" />
 </p>
+
+
+<p align="center">
+  <a href="https://github.com/NucleusCloudX">
+    <img src="https://github-profile-trophy.vercel.app/?username=NucleusCloudX&theme=onedark&margin-w=10&margin-h=10&column=6" alt="GitHub Trophies" />
+  </a>
+</p>
+
