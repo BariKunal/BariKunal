@@ -148,7 +148,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NucleusCloudX&theme=radical&margin-w=12&margin-h=12" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NucleusCloudX&theme=radical&column=12&margin-w=12&margin-h=12" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
