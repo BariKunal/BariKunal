@@ -82,3 +82,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=NucleusCloudX&theme=radical&margin-w=10&margin-h=10" />
 </p>
 
+---
+---
+<h3 align="center">⚡ "Automate Everything, Fail Fast, Learn Faster, and Deliver Continuously!" 🚀</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300px">
+</p>
+
