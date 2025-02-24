@@ -52,3 +52,29 @@
 </p>
 
 ---
+
+###  **Development & Tools**  
+<p float="left">
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="80" />
+  </a>
+
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="90" />
+  </a>
+
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="80" />
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="80" />
+  </a>
+
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" height="80" />
+  </a>
+</p>
+
+---
+
