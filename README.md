@@ -96,7 +96,7 @@
 ---
 <p align="center">
   <a href="https://github.com/NucleusCloudX">
-    <img src="https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Screenshot%202025-02-25%20031604.png?raw=true" />
+    <img src="https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Screenshot%202025-02-25%20044949.png?raw=true" />
   </a>
 </p>
 
