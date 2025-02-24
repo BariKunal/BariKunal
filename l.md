@@ -114,3 +114,34 @@
 ---
 
 💡 _"Strive for progress, not perfection!"_ 🚀  
+
+
+
+
+## 📊 GitHub Insights 🚀  
+
+### 🔥 **Profile Overview**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NucleusCloudX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+### 🚀 **Most Used Languages**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NucleusCloudX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
+### ⚡ **Coding Streak**  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NucleusCloudX&theme=tokyonight&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+## 🏆 **GitHub Achievements** 🏅  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NucleusCloudX&theme=onedark&margin-w=15&margin-h=15&no-frame=true" />
+</p>
+
+---
+
+✨ **Consistency, Commitment & Continuous Learning!** 🚀
