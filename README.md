@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> 
 </h1>
 
+<img src="https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Screenshot%202025-02-25%20034026.png" width="60px">
 
 <p align="center">
   <a href="https://github.com/NucleusCloudX">
