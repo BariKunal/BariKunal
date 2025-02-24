@@ -10,3 +10,8 @@
  <a href="https://www.docker.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
+<p float="left">
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" height="80" />
+  </a>
+</p>
