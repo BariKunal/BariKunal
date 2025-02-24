@@ -51,7 +51,6 @@
   </a>
 </p>
 
----
 
 ###  **Development & Tools**  
 <p float="left">
@@ -77,4 +76,9 @@
 </p>
 
 ---
+
+## 🏆 **GitHub Trophies**  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NucleusCloudX&theme=radical&margin-w=10&margin-h=10" />
+</p>
 
