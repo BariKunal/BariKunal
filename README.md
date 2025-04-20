@@ -1,115 +1,78 @@
-<h1 align="center">
-  Hi there, I'm Kunal Bari  
-  <img src="https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Screenshot%202025-02-25%20034026.png" width="88px">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> 
-</h1>
+<h1 align="center">Hey there 👋, I'm Kunal Bari</h1>
+<h3 align="center">🚀 Java | C | C++ | Web Developer | Jira Enthusiast | Linux Explorer</h3>
 
-
-  <a href="https://github.com/NucleusCloudX">
-    <img src="https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Cloud%20%26%20DevOps%20Engineer%20%20Passionate%20About%20Automation%20%26%20Cloud%20Technologies%20%20Eager%20to%20Learn%20%26%20Grow%20in%20CICD%20%26%20Infrastructure%20as%20Code.png?raw=true" 
-         alt="Cloud & DevOps Engineer | Passionate About Automation & Cloud Technologies | Eager to Learn & Grow in CI/CD & Infrastructure as Code" />
-  </a>
-</p>
-
-## Connect with Me
-
-<p float="left">
-  <a href="https://www.linkedin.com/in/bhupendra-devops-engineer" >
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/NucleusCloudX" >
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="mailto:bhupendrapatil055@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://www.youtube.com/@NucleusCloudX" >
-     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
-
-
-### 🚀 **Cloud & DevOps**
-
-<p float="left">
-<a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
-  </a>
-
-
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="80" />
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-  </a>
-
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="80" />
-  </a>
-
- <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
-
-  <a href="https://www.terraform.io/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" height="80" />
-  </a>
-
-  <a href="https://www.ansible.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="80" />
-  </a>
-    
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" height="80" />
-  </a>
-</p>
-
-
-
-
-
-
-###  **Development & Tools**  
-<p float="left">
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="80" />
-  </a>
-
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" height="90" />
-  </a>
-
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="80" />
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="80" />
-  </a>
-
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/grafana/grafana/main/public/img/grafana_icon.svg" height="80" />
-  </a>
-</p>
-
----
-
-## 🏆 **GitHub Trophies**  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NucleusCloudX&theme=radical&column=9&margin-w=10&margin-h=10" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Let's+Build+Something+Awesome;Java+%7C+C%2B%2B+%7C+Web+Dev+%7C+Linux+%7C+Jira" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BariKunal&label=Profile+Views&color=brightgreen&style=flat-square" alt="profile views"/>
 </p>
 
 ---
+
+### 👨‍💻 About Me
+
+- 🎓 Graduate from **North Maharashtra University, Jalgaon**
+- 💻 Full Stack Developer in training @ *Giris Tech Hub, Pune*
+- 👨‍💻 Final year project: **Hidden Wireless Spy Camera System for Women's Safety** (Linux)
+- ⚙️ Tech Explorer – From front-end to systems and scripting
+- 📍 Living in **Pune**, from **Jalgaon**
+- 🧠 Always learning something new, one line of code at a time
+
 ---
+
+### 🛠️ Languages & Tools
+
 <p align="center">
-  <a href="https://github.com/NucleusCloudX">
-    <img src="https://github.com/NucleusCloudX/NucleusCloudX/blob/main/Screenshot%202025-02-25%20044949.png?raw=true" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+### 🌟 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BariKunal&show_icons=true&theme=tokyonight" alt="Kunal's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BariKunal&theme=tokyonight" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BariKunal&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BariKunal&theme=darkhub&row=1&margin-w=15" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+- 🔍 [Spy Cam for Safety](https://github.com/BariKunal/spy-camera-linux) – Wireless system to protect women's safety in public spaces.
+- 💼 [Dev Tool Scripts](https://github.com/BariKunal/devops-toolkit) – Handy automation and CLI utilities.
+- 🌐 [Web Profile](https://github.com/BariKunal/BariKunal) – My GitHub Profile as a Portfolio.
+
+---
+
+### 🌐 Let's Connect!
+
+<p align="center">
+  <a href="www.linkedin.com/in/kunal-bari-software-developer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kunalbari751@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
+---
 
+<p align="center">✨ Always curious. Always coding. 🚀</p>
+
+<p align="center">⭐️ From <a href="https://github.com/BariKunal">@BariKunal</a></p>
