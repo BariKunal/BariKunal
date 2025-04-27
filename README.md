@@ -56,8 +56,8 @@
 ### 🔗 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kunalbari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="mailto:kunalbari34@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="www.linkedin.com/in/kunal-bari-software-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="mailto:kunalbari751@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
