@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F75C7E&width=435&lines=Java+Full+Stack+Developer;Linux+Power+User;DevOps+Enthusiast;Loves+to+automate+everything" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BariKunal&label=PROFILE+VIEWS&style=flat-square&color=brightgreen" alt="Profile views"/>
-</p>
 
 ---
 
